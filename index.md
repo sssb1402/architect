@@ -17,7 +17,7 @@ layout: default
  이상은 한국 문학사에서 선구적인 모더니즘 작가로서 1930년부터 약 6년 동안 다수의 시, 소설, 수필 등을 집필하여 인간 사회의 **도구적 합리성**을 극복하고 **미적 자율성**을 정랍하고자 했다. 그는 주로 **자동기술법**을 사용한 자의식 문학을 창작했으며, 그의 작품활동은 한국 근대 문학의 발전에 지대한 공헌을 했다고 평가받는다.
 
 ![이상](https://github.com/sssb1402/architect/blob/master/assets/images/sang.png)
-
+<img src = "./assets/images/sang.png">
 
 * * *
 
