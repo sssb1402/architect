@@ -100,6 +100,10 @@ layout: default
 
 > 이상, 오감도, 난해함, 표현주의, 차원의 확장
 
+단위 유닛은 다음과 같다.
+
+![단위유닛](https://github.com/sssb1402/architect/blob/master/assets/images/%EB%8B%A8%EC%9C%84%20%EC%9C%A0%EB%8B%9B.png)
+
 * * *
 
 ## 차원의 확장
