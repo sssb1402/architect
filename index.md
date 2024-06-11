@@ -131,6 +131,8 @@ layout: default
 * 스터디 모형 피드백
 단위 유닛의 미사용, 정교한 설계의 요구, 단순히 ‘난해함’만을 고려하며 다른 해석이 드러나지 않음.
 
+![스터디모형](https://github.com/sssb1402/architect/blob/master/assets/images/%EC%8A%A4%ED%84%B0%EB%94%94%EB%AA%A8%ED%98%95.png)
+
 * * *
 
 ## 패널 
